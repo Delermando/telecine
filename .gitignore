@@ -1,3 +1,4 @@
 *.pyc
 pythonVendor/*
+telecine/static/*
 db.*
